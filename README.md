@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 ![NuxtJS](https://img.shields.io/badge/nuxtjs-%2335495e.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=%234FC08D)
 ![Golang](https://img.shields.io/badge/go-%2335495e.svg?style=for-the-badge&logo=go&logoColor=%234FC08D)
 
-![](https://github-profile-trophy.vercel.app/?username=katelinlis&theme=onedark)
+My Social network
+ <a href="http://only-one.su/" target="blank"><img src="https://only-one.su/img/Logo.svg" width="320" alt="Only one" /></a>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katelinlis&langs_count=8&exclude_repo=st,encoder,dev&theme=onedark)
+
+![](https://github-profile-trophy.vercel.app/?username=katelinlis&theme=onedark)
