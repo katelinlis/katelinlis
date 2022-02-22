@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-profile-trophy.vercel.app/?username=katelinlis&theme=onedark)
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katelinlis&langs_count=8&exclude_repo=st,encoder,dev&theme=onedark)
